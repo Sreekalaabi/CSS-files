@@ -1,0 +1,96 @@
+*{
+    margin-top: 0;
+}
+.dis{
+   /* padding-left: 250px; */
+     
+       
+        color: rgb(31, 29, 28);
+        padding-top: 200px;
+    }
+     
+
+
+.dis1{
+    padding-top: 200px;
+    padding-right: 250px;
+color: rgb(36, 35, 33);
+    float: right;
+     
+}
+ul {
+   
+   
+    list-style-position: outside;
+    list-style-type: none;
+}
+
+.s {
+    font-size: medium;
+    list-style-type: none;
+    display: flex;
+    color: rgb(41, 40, 36);
+    gap: 10px;
+   
+    
+}
+a{color: rgb(20, 19, 18);
+    text-decoration: none;
+  
+}
+.navbar{display: flex;
+gap:35px;
+padding: 10px;
+font-size:x-large;
+font-weight: bold;
+justify-content: right;
+background-color: rgb(88, 224, 248);
+}
+h3{
+    color: rgb(12, 12, 12);
+    padding-top: 150px;
+}
+h2{
+    color: rgb(14, 15, 15);
+    text-align: center;
+}
+h1{
+ color: rgb(15, 15, 14);
+    text-align: center;
+    font-size: 40px;
+}
+.abt{
+    font-size: 25px;
+    color: rgb(19, 19, 18);
+}
+.edu{ padding-top: 25px;
+    font-size: larger;
+    color: rgb(1, 2, 2);
+    display: flex;
+    
+}
+/* 
+.skill{
+font-size: larger;
+color: rgb(2, 2, 2);
+}
+p{
+font-size: large;
+color: rgb(8, 8, 8);
+ */
+.head
+{
+    color: rgb(8, 8, 8);
+   padding-right: 100px;
+}
+.box{
+    width: 320px;
+    height: 50px;
+    padding: 25px;
+    border: 5px solid rgb(224, 147, 195);
+    padding-top:25px ; 
+    background-color: silver;
+text-align: center;
+
+  }
+
